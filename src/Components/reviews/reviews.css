@@ -1,0 +1,28 @@
+.reviews{
+    background-color: #a82d49;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+
+.reviews p {
+    margin: auto;
+}
+
+.img-review{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+ .carousel-item,
+ .carousel-control-next, .carousel-control-prev,  .carousel-item.active {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

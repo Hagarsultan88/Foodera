@@ -1,0 +1,55 @@
+
+.Form {
+    width: 100%;
+    height: auto;
+    padding: 30px 0px;
+    text-align: center;
+}
+
+.Form h2 {
+    color: #333;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Form p {
+    color: #444;
+    text-align: center;
+}
+
+.Form input {
+    margin-left: 70px;
+    padding-left: 10px;
+}
+
+.Form button {
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    background-color: #740c24;
+    border: 1px solid #740c24;
+    box-sizing: border-box;
+    margin: 10px 0px;
+    transition: 0.3s ease-in-out;
+}
+
+.Form button a {
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Tajawal' , sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none !important;
+    letter-spacing: 1px;
+}
+
+.Form button:hover {
+    background-color: transparent;
+}
+
+.Form button:hover a {
+    color: #740c24;
+}
+
+

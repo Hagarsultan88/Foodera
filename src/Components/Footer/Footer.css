@@ -1,0 +1,17 @@
+.footer{
+    padding-top: 30px;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    font-size: large;
+    font-family: cursive,'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: white;
+    background-color: #a82d49;
+    height: 200px;
+    margin-left: 10px;
+}
+
+.footer span {
+    margin-left: 50px;
+}
